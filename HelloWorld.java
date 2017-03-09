@@ -1,6 +1,10 @@
 public class HelloWorld { 
     public static void main(String[] args) { 
-        System.out.println("Hello, Pluto");
+<<<<<<< HEAD
+        System.out.println("Hello, Earth");
+=======
+        System.out.println("Hello, Earth");
+>>>>>>> 46264ff282cf418a144d1d905959112a33bf0989
         System.out.println("Hello, World");
         System.out.println("Hello, World");
         System.out.println("Hello, World");
@@ -9,7 +13,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
         System.out.println("Hello, World");
-        System.out.println("Hello, World"); 
+        System.out.println("Hello, Pluto"); 
     }
 }
 
